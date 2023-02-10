@@ -29,9 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonpulido1990&show_icons=true&locale=en" alt="jhonpulido1990" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonpulido1990&" alt="jhonpulido1990" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
