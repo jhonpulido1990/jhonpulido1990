@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pulidolasso" target="blank"><img src="https://img.shields.io/twitter/follow/pulidolasso?logo=twitter&style=for-the-badge" alt="pulidolasso" /></a> </p>
 
--  I’m currently working on [holbertonschool-web_react](https://github.com/jhonpulido1990/holbertonschool-web_react) - **Angular React Application**
+-  I’m currently working on - **Angular React Application**
 
 -  I’m currently learning **react, typescript, react redux, javascript, angular**
 
