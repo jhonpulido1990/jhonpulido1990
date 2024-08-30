@@ -24,16 +24,6 @@ I am a skilled Angular developer with experience in building robust and scalable
 * **NgRx:** Familiar with using NgRx for state management and application architecture.
 * **Component-Based Development:** Adept at building modular and reusable Angular components.
 
-## Projects
-
-### holbertonschool-web_react
-
-**Angular React Application**
-
-This project is an Angular React application that I developed as part of my Holberton School curriculum. The application is a [briefly describe the project's purpose and functionality]. I used [list the technologies used in the project] to develop this application.
-
-[Link to Portfolio Website (if available)]
-
 ## Connect with me:
 
 <p align="left">
