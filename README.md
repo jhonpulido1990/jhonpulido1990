@@ -15,7 +15,7 @@
 
 -  How to reach me **pulidojj174@gmail.com**
 
--  my portfolio **jhonpuli.dev**
+-  my portfolio **https://www.jhonpuli.dev**
 
 ## Angular Expertise
 
