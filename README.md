@@ -13,7 +13,9 @@
 
 -  Ask me about **react, javascript, css, html, python, angular**
 
--  How to reach me **3825@holbertonstudents.com**
+-  How to reach me **pulidojj174@gmail.com**
+
+-  my portfolio **jhonpuli.dev**
 
 ## Angular Expertise
 
