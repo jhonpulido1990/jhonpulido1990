@@ -42,12 +42,13 @@ Soy un **Desarrollador Full Stack** con +2 años de experiencia en startups y pr
 
 ---
 
-## 📊 **Estadísticas de GitHub**  
+## 📊 **Estadísticas de GitHub** 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhonpulido1990&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonpulido1990&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonpulido1990&show_icons=true&locale=en&layout=compact&theme=radical" alt="jhonpulido1990" />
 </div>
-
 ---
 
 ## 🔗 **¡Conectemos!**  
@@ -59,9 +60,3 @@ Soy un **Desarrollador Full Stack** con +2 años de experiencia en startups y pr
 <a href="https://twitter.com/pulidolasso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulidolasso" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jhon-j-pulido/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jhon-jairo-pulido-462a9066" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonpulido1990&show_icons=true&locale=en&layout=compact" alt="jhonpulido1990" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonpulido1990&show_icons=true&locale=en" alt="jhonpulido1990" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonpulido1990&" alt="jhonpulido1990" /></p>
